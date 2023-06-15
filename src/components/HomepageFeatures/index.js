@@ -1,15 +1,17 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import Translate, {} from '@docusaurus/Translate';
 
 const FeatureList = [
   {
     title: 'Easy to Use',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
-      <>
+      <><Translate>
         Docusaurus was designed from the ground up to be easily installed and
         used to get your website up and running quickly.
+        </Translate>
       </>
     ),
   },

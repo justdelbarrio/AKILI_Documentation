@@ -4,28 +4,11 @@ sidebar_position: 5
 
 # People
 
-Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
+This section allows you to effectively manage individuals associated with your fleet operations. With the capability to add new persons and their relevant characteristics, you can maintain accurate records and streamline your personnel management processes.
 
-It builds your site as simple **static HTML, JavaScript and CSS files**.
+Adding a new person is quick and easy. Simply enter their details, including a short name for quick identification, their full name, surname, gender, date of birth, and a worker code unique to each individual. These characteristics allow you to create comprehensive profiles for each person associated with your fleet.
 
-## Build your site
+By having this information readily available, you can efficiently manage personnel-related tasks, such as assigning drivers to vehicles, tracking driver performance, and ensuring compliance with regulations. The worker code serves as a unique identifier, making it easy to retrieve and manage personnel information.
 
-Build your site **for production**:
+With our Person section, you can have a centralized database of all individuals involved in your fleet operations, whether they are drivers, technicians, or other personnel. This simplifies the process of managing their information, making it easier to allocate resources, track certifications and training, and ensure effective communication within your organization.
 
-```bash
-npm run build
-```
-
-The static files are generated in the `build` folder.
-
-## Deploy your site
-
-Test your production build locally:
-
-```bash
-npm run serve
-```
-
-The `build` folder is now served at [http://localhost:3000/](http://localhost:3000/).
-
-You can now deploy the `build` folder **almost anywhere** easily, **for free** or very small cost (read the **[Deployment Guide](https://docusaurus.io/docs/deployment)**).

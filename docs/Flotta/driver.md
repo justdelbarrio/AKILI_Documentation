@@ -4,28 +4,12 @@ sidebar_position: 4
 
 # Drivers
 
-Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
 
-It builds your site as simple **static HTML, JavaScript and CSS files**.
+In this section, you have the flexibility to insert various driver details, ensuring accurate records and streamlined driver management. Some of the essential characteristics you can add include the driver's name, surname, gender, date of birth, worker code, and short name.
 
-## Build your site
+By providing these key characteristics, you can create a comprehensive profile for each driver in your fleet. This enables you to efficiently track driver information, assign drivers to specific vehicles, and manage driver-related operations effectively.
 
-Build your site **for production**:
+Furthermore, AKILImob empowers you to easily add new drivers into the system. Whether you're expanding your fleet or hiring new personnel, our platform allows for seamless integration of new driver profiles. Simply input their relevant details, including the characteristics mentioned above, to create their driver profile in the system.
 
-```bash
-npm run build
-```
+With AKILImob's Driver section, you can ensure accurate and up-to-date driver management, empowering you to make informed decisions and optimize driver allocation. Efficiently track driver performance, compliance, and training requirements to enhance overall fleet productivity and safety.
 
-The static files are generated in the `build` folder.
-
-## Deploy your site
-
-Test your production build locally:
-
-```bash
-npm run serve
-```
-
-The `build` folder is now served at [http://localhost:3000/](http://localhost:3000/).
-
-You can now deploy the `build` folder **almost anywhere** easily, **for free** or very small cost (read the **[Deployment Guide](https://docusaurus.io/docs/deployment)**).

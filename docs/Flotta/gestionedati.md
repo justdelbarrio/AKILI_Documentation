@@ -4,28 +4,15 @@ sidebar_position: 6
 
 # Data Manegement
 
-Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
+In this section you will find a comprehensive solution for organizing and maintaining crucial information about both vehicles and drivers.
 
-It builds your site as simple **static HTML, JavaScript and CSS files**.
+In the Vehicle section, you can utilize our Excel template to input and track every detail about your fleet. Capture essential information such as brand, model, setup, license plate, VIN, model year, environmental class, transmission, drivetrain, cubic capacity, power, hybridization, tank capacity, registration date, and more. This ensures that no aspect of your vehicles' specifications is overlooked, facilitating efficient fleet management.
 
-## Build your site
+Similarly, in the Driver section, our Excel template enables you to record and manage important driver details. Enter information including unique codes, first name, last name, identity code, gender, birth date, birth country, birth address, residence country, entity, policy, driving license code, email, phone, and username. This comprehensive driver profile allows for accurate and organized driver management.
 
-Build your site **for production**:
+To streamline the data integration process, our platform offers an "importation" section. Here, you can effortlessly import your own pre-compiled templates, ensuring seamless integration of existing data into our system. This saves you time and effort by eliminating the need to manually input data.
 
-```bash
-npm run build
-```
+:::note Note
+With our Data Management section, you gain centralized control over your fleet's vital information. Accessing and managing vehicle and driver data becomes effortless, facilitating better decision-making, resource allocation, and compliance adherence.
 
-The static files are generated in the `build` folder.
-
-## Deploy your site
-
-Test your production build locally:
-
-```bash
-npm run serve
-```
-
-The `build` folder is now served at [http://localhost:3000/](http://localhost:3000/).
-
-You can now deploy the `build` folder **almost anywhere** easily, **for free** or very small cost (read the **[Deployment Guide](https://docusaurus.io/docs/deployment)**).
+:::
