@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Discover the documentation!
+            Discover the AKILImob documentation!
           </Link>
         </div>
       </div>

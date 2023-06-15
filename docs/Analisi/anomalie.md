@@ -9,9 +9,9 @@ The Anomalies section of the program is a **crucial component** that identifies 
 
 ## Where are this data conserved?
 
-You can download the .CSV or .XLSX file with the designated button on the upper-right side
+You can download the **.CSV** or **.XLSX** file with the designated button on the upper-right side
 
 ![AnomaliesDownload](\img\anomalies.gif)
 
-Here's an example of a .XLSX file downloaded
+Here's an example of a .XLSX file **downloaded**
 <img src="\img\anomalyexx.png" width="900" />

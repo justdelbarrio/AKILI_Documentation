@@ -4,20 +4,22 @@ sidebar_position: 1
 
 # Offers
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+Welcome to the Offer section, where you can access exclusive deals and offers tailored to your transportation needs. In this section, we provide a seamless experience with three simple steps:
 
-Docusaurus has **much more to offer**!
 
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.
+import Tabs from '@theme/Tabs';
 
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
+import TabItem from '@theme/TabItem';
 
-## What's next?
+:::info Three steps configuration
 
-- Read the [official documentation](https://docusaurus.io/)
-- Modify your site configuration with [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
-- Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+<Tabs>
+  <TabItem value="Step 1: Offer Data" label="Step 1: Offer Data">Fill in the required information, such as your desired route, cargo specifications, and preferred delivery dates. Our system will analyze this data to generate personalized offers that match your requirements.</TabItem>
+  <TabItem value="Step 2: Load Document" label="Step 2: Load Document">Upload the necessary load documents, including bills of lading or any other relevant paperwork. This helps us ensure a smooth and efficient process throughout the transportation journey.</TabItem>
+  <TabItem value="Step 3: Vehicle Selection" label="Step 3: Vehicle Selection">Browse through our extensive selection of vehicles and choose the one that best suits your cargo requirements. Our fleet offers a diverse range of options, including various sizes, capacities, and specialized features, enabling you to find the perfect match.</TabItem>
+  
+</Tabs>
+
+:::
+
+With our Offer section, you can effortlessly access exclusive deals, streamline your load documentation, and select the ideal vehicle for your transportation needs. Get started today and experience the convenience of our tailored offers in just a few simple steps.

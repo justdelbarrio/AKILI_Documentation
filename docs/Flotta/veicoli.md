@@ -4,28 +4,15 @@ sidebar_position: 3
 
 # Vehicles
 
-Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
+Let's explore the three key parts for inserting a vehicle:
 
-It builds your site as simple **static HTML, JavaScript and CSS files**.
+1. Connection:
+In this part, you establish the connection between the vehicle and the driver. You can associate a driver with the vehicle by entering their details, including the driver's name, entity, and current state. This helps maintain accurate records and simplifies driver-vehicle assignments.
 
-## Build your site
+2. Vehicle Data:
+Here, you input specific information about the vehicle itself. This includes the brand, model, year, license plate, environmental class, power output, and traction type. These details provide a comprehensive overview of the vehicle's specifications, aiding in fleet management decision-making.
 
-Build your site **for production**:
+3. Consumes and Emissions:
+In this part, you can enter data related to the vehicle's consumption and emissions. Specify the fuel tank capacity, battery capacity (if applicable), type of fuel/energy used, and battery consumption. These details enable you to track and monitor the vehicle's fuel/energy consumption and emissions, promoting eco-friendly practices and cost optimization.
 
-```bash
-npm run build
-```
-
-The static files are generated in the `build` folder.
-
-## Deploy your site
-
-Test your production build locally:
-
-```bash
-npm run serve
-```
-
-The `build` folder is now served at [http://localhost:3000/](http://localhost:3000/).
-
-You can now deploy the `build` folder **almost anywhere** easily, **for free** or very small cost (read the **[Deployment Guide](https://docusaurus.io/docs/deployment)**).
+With AKILImob's Vehicle section, you gain full control over your fleet, ensuring efficient operations and informed decision-making. From driver-vehicle associations to comprehensive vehicle data and consumption tracking, our platform simplifies the management process. Maximize your fleet's potential, optimize resource allocation, and enhance sustainability with AKILImob's powerful fleet management tools. Experience the benefits today and streamline your vehicle management effortlessly.
