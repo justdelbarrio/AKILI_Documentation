@@ -1,0 +1,8 @@
+{
+  "label": "Analisys",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "This section features Business Intelligence (B.I.) and Anomalies found in specific vehicles, learn more clicking on one of the topics below."
+  }
+}
