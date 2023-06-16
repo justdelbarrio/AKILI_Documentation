@@ -4,40 +4,12 @@ sidebar_position: 1
 
 # Configuration
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+This feature enables you to add and manage elements characterized by a tag and a JSON configuration.
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+With the Configuration section, you can easily tailor the behavior and settings of different components within the platform. By utilizing JSON configuration, you have a flexible and powerful tool to define and adjust parameters, rules, and options according to your specific requirements.
 
-## Create your first React Page
+Adding a new element is a straightforward process. Simply provide a descriptive tag that identifies the element. The tag helps you organize and categorize different configurations for easy reference and management. Then, input the JSON configuration that contains the specific parameters and settings for the element.
 
-Create a file at `src/pages/my-react-page.js`:
+The JSON configuration allows you to customize various aspects of the platform, such as module behavior, UI elements, workflows, and integrations. You can define rules, specify default values, enable or disable features, and much more, all through the structured format of JSON.
 
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
-
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
-
-A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
-
-## Create your first Markdown Page
-
-Create a file at `src/pages/my-markdown-page.md`:
-
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
-
-This is a Markdown page
-```
-
-A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
+The Configuration section empowers you to experiment and adapt the platform to your unique needs. You can easily modify existing configurations, add new ones, or remove obsolete configurations. This level of customization ensures that the platform aligns perfectly with your business processes and workflows.

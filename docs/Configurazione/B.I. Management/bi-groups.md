@@ -4,54 +4,16 @@ sidebar_position: 2
 
 # B.I. Groups
 
-Documents are **groups of pages** connected through:
+This feature-rich section enables you to add elements characterized by the name of the group, tag, short tag, name of the schemes, CSS class, and position.
 
-- a **sidebar**
-- **previous/next navigation**
-- **versioning**
+With the B.I. Groups section, you can effortlessly create logical groupings for your data entities, reports, or visualizations. Each element you add represents a unique group and offers a range of customizable attributes to enhance organization and accessibility.
 
-## Create your first Doc
+The name of the group serves as a descriptive identifier, allowing you to give meaningful names to different groups based on their purpose or content. The tag and short tag provide additional labels or keywords to categorize and search for specific groups efficiently.
 
-Create a Markdown file at `docs/hello.md`:
+To further customize the appearance and behavior of your groups, you can assign a CSS class, enabling you to apply custom styling or formatting based on your design preferences. This feature allows you to align the groups with your brand identity or visual theme.
 
-```md title="docs/hello.md"
-# Hello
+The position attribute determines the placement of the groups within the user interface, giving you control over the visual hierarchy and layout. You can arrange the groups in a way that suits your workflow or emphasizes the importance of certain data entities.
 
-This is my **first Docusaurus document**!
-```
+Additionally, the B.I. Groups section allows you to associate schemes with each group. Schemes can be customized configurations or templates that define specific data visualization settings, filters, or calculations for the associated group. This enables you to streamline data analysis and visualization by predefining settings for each group.
 
-A new document is now available at [http://localhost:3000/docs/hello](http://localhost:3000/docs/hello).
-
-## Configure the Sidebar
-
-Docusaurus automatically **creates a sidebar** from the `docs` folder.
-
-Add metadata to customize the sidebar label and position:
-
-```md title="docs/hello.md" {1-4}
----
-sidebar_label: 'Hi!'
-sidebar_position: 3
----
-
-# Hello
-
-This is my **first Docusaurus document**!
-```
-
-It is also possible to create your sidebar explicitly in `sidebars.js`:
-
-```js title="sidebars.js"
-module.exports = {
-  tutorialSidebar: [
-    'intro',
-    // highlight-next-line
-    'hello',
-    {
-      type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
-    },
-  ],
-};
-```
+By leveraging the B.I. Groups section, you can create a well-organized and visually appealing environment for your data entities. 

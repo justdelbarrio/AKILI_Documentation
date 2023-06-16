@@ -22,5 +22,5 @@ The Document section of AKILImob is a comprehensive feature designed to streamli
 
 - The Contracts section serves as a centralized repository for all contract-related documents, including lease agreements, service contracts, and vendor agreements. It ensures easy access to contractual information, expirations, and renewal dates.
 
-Overall, the Document section of the fleet management app provides a seamless and organized approach to managing and accessing critical documents, enhancing efficiency, compliance, and transparency in the fleet management process.
+
 

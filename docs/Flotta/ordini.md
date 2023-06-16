@@ -21,4 +21,4 @@ import TabItem from '@theme/TabItem';
 </Tabs>
 
 :::
-With our Order area, you can streamline your order process, track your shipments in real-time, and ensure efficient logistics operations. Experience the ease and efficiency of managing your transportation orders with our comprehensive fleet management site today.
+With our Order area, you can streamline your order process, track your shipments in real-time, and ensure efficient logistics operations.

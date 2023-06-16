@@ -4,40 +4,12 @@ sidebar_position: 3
 
 # B.I. Items
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+This section comprises three key steps: Data, Exportation Settings, and JSON Parameters, enabling you to customize and configure your B.I. items according to your specific requirements.
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+In the first step, "Data," you can add essential details to your B.I. item. This includes providing an ID for unique identification purposes, assigning it to a specific group, and associating relevant tags for easy categorization. You can also upload a file or specify the type of element you want to create. Additionally, you have the option to define the exportation format and name of the file, as well as apply a custom CSS class for styling purposes.
 
-## Create your first React Page
+The second step, "Exportation Settings," offers a block notes feature where you can write additional notes or instructions related to the exportation process. This allows you to provide specific details or guidelines for exporting the B.I. item, ensuring seamless integration with other systems or workflows.
 
-Create a file at `src/pages/my-react-page.js`:
+The third step, "JSON Parameters," also provides a block notes feature where you can input JSON parameters for further customization or configuration of the B.I. item. This allows you to fine-tune the behavior, settings, or interactions associated with the B.I. item based on your specific needs.
 
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
-
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
-
-A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
-
-## Create your first Markdown Page
-
-Create a file at `src/pages/my-markdown-page.md`:
-
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
-
-This is a Markdown page
-```
-
-A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
+By combining these three steps, the B.I. Items section offers a comprehensive solution for managing and customizing your data elements within the business intelligence platform. You can easily configure the necessary details, specify exportation settings, and define JSON parameters to optimize the functionality and usability of your B.I. items.

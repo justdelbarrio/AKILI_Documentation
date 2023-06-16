@@ -34,7 +34,7 @@ const config = {
       en: {
         label:'English',
       },
-      fr:{
+      it:{
         label:'Italiano',
       },
     }
