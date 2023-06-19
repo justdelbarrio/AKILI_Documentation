@@ -4,12 +4,12 @@ sidebar_position: 3
 
 # B.I. Items
 
-This section comprises three key steps: **Data, Exportation Settings, and JSON Parameters**, enabling you to customize and configure your B.I. items according to your specific requirements.
+Questa sezione comprende tre passaggi chiave: **Dati, Impostazioni di esportazione e Parametri JSON**, che consentono di personalizzare e configurare gli elementi B.I. in base alle proprie esigenze specifiche.
 
-In the first step, "Data," you can add essential details to your B.I. item. This includes providing an ID for **unique identification** purposes, assigning it to a specific group, and associating relevant tags for **easy categorization**. You can also upload a file or **specify the type of element you want** to create. Additionally, you have the option to define the exportation format and name of the file, as well as apply a custom CSS class for **styling purposes**.
+Nel primo passaggio, "Dati", puoi aggiungere dettagli essenziali al tuo articolo B.I. Ciò include fornire un ID per scopi di **identificazione univoca**, assegnarlo a un gruppo specifico e associare tag pertinenti per **facile categorizzazione**. Puoi anche caricare un file o **specificare il tipo di elemento che desideri** creare. Inoltre, è possibile definire il formato di esportazione e il nome del file, nonché applicare una classe CSS personalizzata per **scopi di stile**.
 
-The second step, "Exportation Settings," offers a **block notes feature** where you can write additional notes or instructions related to the **exportation process**. This allows you to provide specific details or guidelines for exporting the B.I. item, ensuring **seamless integration** with other systems or workflows.
+Il secondo passo, "Impostazioni di esportazione", offre una **funzione di blocco note** in cui è possibile scrivere note aggiuntive o istruzioni relative al **processo di esportazione**. Ciò consente di fornire dettagli specifici o linee guida per l'esportazione dell'articolo B.I., garantendo una **perfetta integrazione** con altri sistemi o flussi di lavoro.
 
-The third step, "JSON Parameters," also provides a block notes feature where you can **input JSON parameters** for further customization or configuration of the B.I. item. This allows you to fine-tune the **behavior, settings, or interactions** associated with the B.I. item based on your specific needs.
+Il terzo passaggio, "Parametri JSON", fornisce anche una funzione di block notes in cui è possibile **inserire parametri JSON** per ulteriori personalizzazioni o configurazioni dell'elemento B.I. Ciò consente di **ottimizzare il comportamento, le impostazioni o le interazioni** associate all'elemento B.I. in base alle proprie esigenze specifiche.
 
-By combining these three steps, the B.I. Items section offers a **comprehensive solution** for managing and customizing your data elements within the business intelligence platform. You can easily configure the necessary details, specify exportation settings, and define JSON parameters to **optimize** the functionality and usability of your B.I. items.
+Combinando questi tre passaggi, la sezione B.I. Items offre una **soluzione completa** per la gestione e la personalizzazione degli elementi di dati all'interno della piattaforma di business intelligence. È possibile configurare facilmente i dettagli necessari, specificare le impostazioni di esportazione e definire i parametri JSON per **ottimizzare** la funzionalità e l'usabilità degli elementi B.I.

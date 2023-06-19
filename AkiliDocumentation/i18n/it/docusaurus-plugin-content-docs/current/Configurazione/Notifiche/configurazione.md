@@ -2,13 +2,13 @@
 sidebar_position: 1
 ---
 
-# Configuration
+# Configurazione
 
-This feature enables you to **add and manage elements** characterized by a tag and a JSON configuration.
+Questa funzione consente di **aggiungere e gestire elementi** caratterizzati da un tag e da una configurazione JSON.
 
-With the Configuration section, you can easily tailor the behavior and settings of different components within the platform. By utilizing **JSON configuration**, you have a **flexible and powerful tool** to define and adjust parameters, rules, and options according to your specific requirements.
+Con la sezione Configurazione, è possibile personalizzare facilmente il comportamento e le impostazioni dei diversi componenti all'interno della piattaforma. Utilizzando la **configurazione JSON**, si dispone di uno **strumento flessibile e potente** per definire e regolare parametri, regole e opzioni in base alle proprie esigenze specifiche.
 
-Adding a new element is a **straightforward process**. Simply **provide a descriptive tag** that identifies the element. The tag helps you **organize and categorize** different configurations for easy reference and management. Then, input the JSON configuration that contains the specific parameters and settings for the element.
+L'aggiunta di un nuovo elemento è un processo **semplice**. È sufficiente fornire un **tag descrittivo** che identifichi l'elemento. Il tag consente di **organizzare e categorizzare** diverse configurazioni per una facile consultazione e gestione. Quindi, immettere la configurazione JSON che contiene i parametri e le impostazioni specifici per l'elemento.
 
-The JSON configuration allows you to **customize** various aspects of the platform, such as module behavior, UI elements, workflows, and integrations. You can define rules, specify default values, enable or disable features, and much more, all through the structured format of JSON.
+La configurazione JSON consente di **personalizzare** vari aspetti della piattaforma, come il comportamento del modulo, gli elementi dell'interfaccia utente, i flussi di lavoro e le integrazioni. È possibile definire regole, specificare valori predefiniti, abilitare o disabilitare funzionalità e molto altro, tutto attraverso il formato strutturato di JSON.
 

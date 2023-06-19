@@ -4,16 +4,16 @@ sidebar_position: 2
 
 # B.I. Groups
 
-This feature-rich section enables you to add elements characterized by the name of the group, tag, short tag, name of the schemes, CSS class, and position.
+Questa sezione ricca di funzionalità consente di aggiungere elementi caratterizzati dal nome del gruppo, tag, tag breve, nome degli schemi, classe CSS e posizione.
 
-With the B.I. Groups section, you can effortlessly **create logical groupings** for your data entities, reports, or visualizations. Each element you add represents a **unique group** and offers a range of customizable attributes to enhance organization and accessibility.
+Con la sezione B.I. Groups, è possibile **creare facilmente raggruppamenti logici** per entità di dati, report o visualizzazioni. Ogni elemento aggiunto rappresenta un **gruppo unico** e offre una gamma di attributi personalizzabili per migliorare l'organizzazione e l'accessibilità.
 
-The name of the group serves as a **descriptive identifier**, allowing you to give meaningful names to different groups based on their purpose or content. The tag and short tag provide **additional labels or keywords** to categorize and search for specific groups efficiently.
+Il nome del gruppo funge da **identificatore descrittivo**, consentendo di assegnare nomi significativi a gruppi diversi in base al loro scopo o contenuto. Il tag e il tag breve forniscono **etichette o parole chiave aggiuntive** per categorizzare e cercare gruppi specifici in modo efficiente.
 
-To further customize the appearance and behavior of your groups, you can assign a **CSS class**, enabling you to apply custom styling or formatting based on your **design preferences**. This feature allows you to align the groups with your brand identity or visual theme.
+Per personalizzare ulteriormente l'aspetto e il comportamento dei gruppi, è possibile assegnare una **classe CSS**, che consente di applicare stili o formattazione personalizzati in base alle **preferenze di progettazione**. Questa funzione ti consente di allineare i gruppi con l'identità del tuo marchio o il tema visivo.
 
-The position attribute determines the placement of the groups within the user interface, giving you control over the visual **hierarchy and layout**. You can arrange the groups in a way that suits your workflow or emphasizes the importance of certain data entities.
+L'attributo position determina il posizionamento dei gruppi all'interno dell'interfaccia utente, offrendo il controllo sulla **gerarchia visiva e sul layout**. È possibile disporre i gruppi in modo adatto al flusso di lavoro o sottolineare l'importanza di determinate entità di dati.
 
-Additionally, the B.I. Groups section allows you to **associate schemes** with each group. Schemes can be **customized configurations or templates** that define specific data visualization settings, filters, or calculations for the associated group. This enables you to streamline data analysis and visualization by predefining settings for each group.
+Inoltre, la sezione B.I. Groups consente di **associare schemi** a ciascun gruppo. Gli schemi possono essere **configurazioni o modelli personalizzati** che definiscono impostazioni di visualizzazione dei dati, filtri o calcoli specifici per il gruppo associato. Ciò consente di semplificare l'analisi e la visualizzazione dei dati predefinendo le impostazioni per ciascun gruppo.
 
-By leveraging the B.I. Groups section, you can create a **well-organized and visually appealing environment** for your data entities. 
+Sfruttando la sezione B.I. Groups, è possibile creare un ambiente **ben organizzato e visivamente accattivante** per le entità dati.

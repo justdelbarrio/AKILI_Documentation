@@ -2,10 +2,10 @@
 sidebar_position: 2
 ---
 
-# Localization
+# Localizzazioni
 
-Within the Localization side, you have the flexibility to **add and manage various elements**, each characterized by an ID, resource, language, and translation. These elements can include menu labels, button text, instructional messages, error messages, and any other textual content present on the site.
+Per quanto riguarda la localizzazione, hai la possibilità di **aggiungere e gestire vari elementi**, ciascuno caratterizzato da un ID, una risorsa, una lingua e una traduzione. Questi elementi possono includere etichette di menu, testo dei pulsanti, messaggi di istruzioni, messaggi di errore e qualsiasi altro contenuto testuale presente sul sito.
 
-By utilizing the Localization side, you can easily **create and update translations** for different languages. You can associate each element with a **specific ID**, choose the appropriate resource, select the desired language, and provide the corresponding translation. This ensures that users accessing the site in different languages can have a **seamless and localized experience**.
+Utilizzando il lato Localizzazione, è possibile **creare e aggiornare facilmente traduzioni** per diverse lingue. È possibile associare ogni elemento a un **ID specifico**, scegliere la risorsa appropriata, selezionare la lingua desiderata e fornire la traduzione corrispondente. Ciò garantisce che gli utenti che accedono al sito in lingue diverse possano avere un'esperienza **senza soluzione di continuità e localizzata**.
 
-Whether you need to support English, Spanish, French, German, or any other language, our Localization side empowers you to provide a **fully localized interface**. It enables you to **bridge language barriers**, enhance user engagement, and create a more inclusive experience for your global user base.
+Sia che tu debba supportare inglese, spagnolo, francese, tedesco o qualsiasi altra lingua, il nostro lato Localizzazione ti consente di fornire **un'interfaccia completamente localizzata**. Ti consente di **superare le barriere linguistiche**, migliorare il coinvolgimento degli utenti e creare un'esperienza più inclusiva per la tua base di utenti globale.

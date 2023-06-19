@@ -14,12 +14,11 @@ import TabItem from '@theme/TabItem';
 :::info Three steps configuration
 
 <Tabs>
-  <TabItem value="Step 1: Offer Data" label="Step 1: Offer Data">Fill in the required information, such as your desired route, cargo specifications, and preferred delivery dates. Our system will analyze this data to generate personalized offers that match your requirements.</TabItem>
-  <TabItem value="Step 2: Load Document" label="Step 2: Load Document">Upload the necessary load documents, including bills of lading or any other relevant paperwork. This helps us ensure a smooth and efficient process throughout the transportation journey.</TabItem>
-  <TabItem value="Step 3: Vehicle Selection" label="Step 3: Vehicle Selection">Browse through our extensive selection of vehicles and choose the one that best suits your cargo requirements. Our fleet offers a diverse range of options, including various sizes, capacities, and specialized features, enabling you to find the perfect match.</TabItem>
+  <TabItem value="Step 1: Dati dell'offerta" label="Step 1: Dati dell'offerta">Inserisci le informazioni richieste, come il percorso desiderato, le specifiche del carico e le date di consegna preferite. Il nostro sistema analizzerà questi dati per generare offerte personalizzate che soddisfino le tue esigenze.</TabItem>
+  <TabItem value="Step 2: Inserimento documento" label="Step 2: Inserimento documento">Carica i documenti di carico necessari, comprese le polizze di carico o qualsiasi altro documento pertinente. Questo ci aiuta a garantire un processo fluido ed efficiente durante tutto il viaggio di trasporto.</TabItem>
+  <TabItem value="Step 3: Selezione veicolo" label="Step 3: Selezione veicolo">Sfoglia la nostra vasta selezione di veicoli e scegli quello più adatto alle tue esigenze di carico. La nostra flotta offre una vasta gamma di opzioni, tra cui varie dimensioni, capacità e funzionalità specializzate, che ti consentono di trovare la corrispondenza perfetta.</TabItem>
   
 </Tabs>
 
 :::
-
-With our Offer section, you can **effortlessly access exclusive deals**, streamline your load documentation, and select the **ideal vehicle** for your transportation needs.
+Con la nostra sezione Offerte, puoi **accedere facilmente a offerte esclusive**, semplificare la documentazione di carico e selezionare il **veicolo ideale** per le tue esigenze di trasporto.

@@ -3,9 +3,9 @@ sidebar_position: 2
 ---
 
 # Policy
-This section makes you add a new role which will be characterized by a **level of permission**, that makes it different by the others
+Questa sezione ti fa aggiungere un nuovo ruolo che sarà caratterizzato da un **livello di autorizzazione**, che lo rende diverso dagli altri.
 
-:::tip How roles work
+:::tip Come funzionano i livelli
 
- A role with a high level of permission will have **more power** than one with less"
+  Un ruolo con un alto livello di autorizzazione avrà **più potere** di uno con un basso livello
 :::

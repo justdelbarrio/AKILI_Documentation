@@ -2,13 +2,13 @@
 sidebar_position: 3
 ---
 
-# Suppliers
+# Fornitori
 
-This part of AKILI has every supplier that the company has bought something from. Pressing on the **"details"** button, you will see everything about the supplier:
+Questa parte di AKILI ha tutti i fornitori da cui l'azienda ha acquistato qualcosa. Premendo il pulsante **"dettagli"**, vedrai tutto sul fornitore:
 
-- **Contacts**;
-- **Useful infos**;
-- **Contact people**;
-- **Offers**;
-- **Orders**;
-- **Invoices**.
+- **Contatti**;
+- **Informazioni utili**;
+- **Persone di riferimento**;
+- **Offerte**;
+- **Ordini**;
+- **Fatture del contratto**.

@@ -2,13 +2,19 @@
 sidebar_position: 1
 ---
 
-# Company
-In today's complex business environment, it is crucial to have a clear understanding of the **roles and responsibilities** within your organization. The Company section enables you to define and arrange different roles based on their **level of authority**, **responsibilities**, and **reporting relationships**.
+# Azienda
+Nel complesso ambiente aziendale di oggi, è fondamentale avere una chiara comprensione dei ** ruoli e delle responsabilità ** all'interno della tua organizzazione. La sezione Azienda consente di definire e organizzare diversi ruoli in base al loro **livello di autorità**, **responsabilità** e **relazioni di reporting**.
 
 
-As you can see in this video, you can see the exact hierarchy present in the company. You just need to press this button to see how it works.
-<img src="\img\visTree.gif" alt="vis tree"  width="600" />
+Come puoi vedere in questo video, puoi vedere l'esatta gerarchia presente nell'azienda. Devi solo premere questo pulsante per vedere come funziona.
 
-With the other button, you will be able to **switch** roles.
+<img src="/i18n/it/docusaurus-plugin-content-docs/current/img/visTree.gif" alt="vis tree" width="600"/>
+
+Con l'altro pulsante, sarai in grado di **cambiare** i ruoli.
+
 <img src="\img\confLev.gif" alt="vis tree"  width="600" />
+
+<img src="/img/visTree.gif" alt="visTree" width="600"/>
+
+
 

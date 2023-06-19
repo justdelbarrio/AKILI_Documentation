@@ -2,12 +2,12 @@
 sidebar_position: 4
 ---
 
-# Users
+# Utenti
 
-Adding a new user is a seamless process. Simply enter a **unique username** for the user (usually is **name.surname**), which serves as their identifier within the system. The tag field allows you to input the user's name and surname, providing a personalized touch to their account. Additionally, you can specify their **email address**, enabling smooth communication and notifications.
+L'aggiunta di un nuovo utente è un processo senza soluzione di continuità. Basta inserire un **nome utente univoco** per l'utente (di solito è **nome.cognome**), che funge da identificatore all'interno del sistema. Il campo tag consente di inserire il nome e il cognome dell'utente, fornendo un tocco personalizzato al suo account. Inoltre, è possibile specificare il loro **indirizzo email**, consentendo comunicazioni e notifiche fluide.
 
-The User section goes beyond user creation. It empowers you to **manage user profiles effectively**. You can modify user details, including their username, tag, or email address, as needed. This flexibility allows for accurate and **up-to-date user information**.
+La sezione Utente va oltre la creazione dell'utente. Ti consente di **gestire i profili utente in modo efficace**. È possibile modificare i dettagli dell'utente, inclusi il nome utente, il tag o l'indirizzo e-mail, in base alle esigenze. Questa funzione consente di fornire **informazioni utente accurate e aggiornate**.
 
-In addition to account management, using the Roles section, you can distinguish users with features such as access **control and permissions**. You can assign specific roles and privileges to each user, granting them **appropriate levels of access** to various functionalities and resources within the platform. This ensures a secure and tailored experience for every user.
+Oltre alla gestione degli account, utilizzando la sezione Ruoli, è possibile distinguere gli utenti con funzionalità come accesso **controllo e autorizzazioni**. È possibile assegnare ruoli e privilegi specifici a ciascun utente, garantendo loro **livelli appropriati di accesso** a varie funzionalità e risorse all'interno della piattaforma. Ciò garantisce un'esperienza sicura e personalizzata per ogni utente.
 
-Furthermore, the User section provides tools to enable user **activation, deactivation, or deletion**. This allows you to manage user accounts based on changing circumstances, maintaining optimal security and data privacy.
+Inoltre, la sezione Utente fornisce strumenti per abilitare l'utente **attivazione, disattivazione o eliminazione**. Ciò consente di gestire gli account utente in base al mutare delle circostanze, mantenendo una sicurezza e una privacy dei dati ottimali.

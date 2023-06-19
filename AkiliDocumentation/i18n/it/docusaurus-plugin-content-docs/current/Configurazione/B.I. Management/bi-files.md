@@ -5,14 +5,15 @@ sidebar_position: 1
 # B.I. Files
 
 
-The B.I. Files section provides an interface for seamlessly **adding** and **organizing your data files**. You can easily categorize files into different groups **based on projects**, **departments**, or any other classification that suits your needs. This categorization ensures that your files are structured and **easily accessible**.
+La sezione B.I. Files fornisce un'interfaccia per **aggiungere** e **organizzare senza problemi i file di dati**. È possibile categorizzare facilmente i file in diversi gruppi **in base a progetti**, **reparti** o qualsiasi altra classificazione adatta alle proprie esigenze. Questa categorizzazione garantisce che i file siano strutturati e **facilmente accessibili**.
 
-With the ability to assign tags to your files, you can further **enhance organization and searchability**. Tags allow you to label files with relevant keywords or descriptors, making it simple to find **specific files** later on using the search function.
+Con la possibilità di assegnare tag ai tuoi file, puoi migliorare ulteriormente l'organizzazione e la ricercabilità. I tag consentono di etichettare i file con parole chiave o descrittori pertinenti, semplificando la ricerca di **file specifici** in un secondo momento utilizzando la funzione di ricerca.
 
-Uploading files is a breeze within the B.I. Files section. You can effortlessly **add your data files**, whether they are reports, dashboards, spreadsheets, or any other B.I. artifacts. The section supports various file formats, enabling you to work with the file types that best suit your data analysis and visualization needs.
+Caricare i file è un gioco da ragazzi all'interno della sezione B.I. Files. Puoi facilmente **aggiungere i tuoi file di dati**, siano essi report, dashboard, fogli di calcolo o qualsiasi altro artefatto B.I. La sezione supporta vari formati di file, consentendo di lavorare con i tipi di file che meglio si adattano alle esigenze di analisi e visualizzazione dei dati.
 
-To provide additional context and information, you can assign each file to a **specific category**. This allows you to **classify files** according to their purpose, such as financial, sales, marketing, or operations, facilitating **easier navigation and retrieval**.
+Per fornire ulteriore contesto e informazioni, è possibile assegnare ogni file a una **categoria specifica**. Ciò consente di classificare i file in base al loro scopo, ad esempio finanziario, vendite, marketing o operazioni, **facilitando la navigazione e il recupero**.
 
-Furthermore, you can specify a meaningful **file name** for each uploaded file. This helps you quickly **identify** and **locate** the files you require, ensuring **efficient file management** and seamless collaboration.
+Inoltre, è possibile specificare un **nome file** significativo per ogni file caricato. Questo ti aiuta a **identificare** e **localizzare** rapidamente i file necessari, garantendo una **gestione efficiente dei file** e una collaborazione senza soluzione di continuità.
 
-The B.I. Files section is designed to streamline your data management processes, ensuring that your valuable business intelligence assets are **organized, accessible, and easy to work with**. By leveraging the group, tag, file upload, category, and file name features, you can create a well-structured repository of data files, empowering your team to harness the power of data-driven insights for **better decision-making and business success**.
+
+La sezione B.I. Files è progettata per semplificare i processi di gestione dei dati, garantendo che le preziose risorse di business intelligence siano **organizzate, accessibili e facili da utilizzare**. Sfruttando le funzionalità di gruppo, tag, caricamento di file, categoria e nome file, è possibile creare un repository ben strutturato di file di dati, consentendo al team di sfruttare la potenza delle informazioni dettagliate basate sui dati per **migliorare il processo decisionale e il successo aziendale**.

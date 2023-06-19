@@ -2,14 +2,15 @@
 sidebar_position: 3
 ---
 
-# Tag groups
+# Gruppi di tag
 
-The Tag Groups side provides you with the ability to **add** and **manage** elements characterized by an **ID, a tag, and a color**.
+La parte Gruppi di tag offre la possibilità di **aggiungere** e **gestire** elementi caratterizzati da un **ID, un tag e un colore**.
 
-In this area, you can create **customized tags** that align with your specific needs and requirements. Each element is assigned a unique ID for **easy identification** and reference. Tags serve as labels or markers that allow you to **categorize** and group related items together, making it simpler to locate and manage them efficiently.
+In quest'area è possibile creare **tag personalizzati** in linea con le proprie esigenze e requisiti specifici. Ad ogni elemento viene assegnato un ID univoco per una **facile identificazione e riferimento**. I tag fungono da etichette o marcatori che consentono di **categorizzare** e raggruppare gli elementi correlati, semplificandone l'individuazione e la gestione in modo efficiente.
 
-The color fea ture adds an **extra level** of visual distinction to your tags. By assigning colors to different tags or tag groups, you can create a **visual hierarchy** or emphasize specific categories. This enhances clarity and enables users to quickly identify and differentiate between various elements.
+La caratteristica del colore aggiunge un **ulteriore livello** di distinzione visiva ai tuoi tag. Assegnando colori a tag o gruppi di tag diversi, è possibile creare una **gerarchia visiva** o enfatizzare categorie specifiche. Ciò migliora la chiarezza e consente agli utenti di identificare e differenziare rapidamente tra i vari elementi.
 
-It also prove particularly useful for organizing vehicles, drivers, maintenance records, or any other relevant information. By **grouping related data** under specific tags, you can streamline workflows, **improve searchability**, and simplify data management.
 
-The flexibility allows you to adapt the system to your **unique requirements**. You can create custom tags that align with your organizational structure, specific projects, or any other relevant criteria. This ensures a **personalized and tailored approach** to managing your fleet-related data.
+Si rivela anche particolarmente utile per organizzare veicoli, conducenti, registri di manutenzione o qualsiasi altra informazione rilevante. **Raggruppando i dati correlati** sotto tag specifici, è possibile ottimizzare i flussi di lavoro, migliorare la ricercabilità e semplificare la gestione dei dati.
+
+La flessibilità consente di adattare il sistema alle vostre **esigenze uniche**. Puoi creare tag personalizzati in linea con la struttura organizzativa, i progetti specifici o qualsiasi altro criterio pertinente. Ciò garantisce un **approccio personalizzato e su misura** alla gestione dei dati relativi alla flotta.

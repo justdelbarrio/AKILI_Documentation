@@ -2,13 +2,14 @@
 sidebar_position: 5
 ---
 
-# People
+# Persone
 
-This section allows you to effectively **manage individuals** associated with your fleet operations. With the capability to add new persons and their **relevant characteristics**, you can maintain accurate records and streamline your personnel management processes.
+Questa sezione consente di **gestire in modo efficace le persone** associate alle operazioni della flotta. Con la possibilità di aggiungere nuove persone e le loro **caratteristiche rilevanti**, è possibile mantenere registri accurati e semplificare i processi di gestione del personale.
 
-Adding a new person is **quick and easy**. Simply enter their details, including a short name for **fast identification**, their full name, surname, gender, date of birth, and a worker code unique to each individual. These characteristics allow you to create **comprehensive profiles** for each person associated with your fleet.
+L'aggiunta di una nuova persona è **facile e veloce**. Basta inserire i loro dati, incluso un nome breve per **identificazione rapida**, il loro nome completo, cognome, sesso, data di nascita e un codice lavoratore univoco per ogni individuo. Queste caratteristiche ti consentono di creare **profili completi** per ogni persona associata alla tua flotta.
 
-By having this information **readily available**, you can efficiently manage **personnel-related tasks**, such as assigning drivers to vehicles, tracking driver performance, and ensuring compliance with regulations. The worker code serves as a unique identifier, making it easy to **retrieve and manage personnel information**.
+Avendo queste informazioni **prontamente disponibili**, è possibile gestire in modo efficiente **le attività relative al personale**, come l'assegnazione dei conducenti ai veicoli, il monitoraggio delle prestazioni dei conducenti e la garanzia della conformità alle normative. Il codice di lavoro funge da identificatore univoco, semplificando **il recupero e la gestione delle informazioni sul personale**.
  
- This part of AKILImob simplifies the process of **managing their information**, making it easier to allocate resources, track certifications and training, and ensure **effective communication** within your organization.
+  
+Questa parte di AKILImob semplifica il processo di **gestione delle informazioni**, rendendo più facile l'allocazione delle risorse, il monitoraggio delle certificazioni e della formazione, e garantisce una **comunicazione efficace** all'interno della vostra organizzazione.
 
