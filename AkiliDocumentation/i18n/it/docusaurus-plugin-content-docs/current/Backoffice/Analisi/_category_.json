@@ -1,0 +1,9 @@
+
+{
+  "label": "Analisi",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Questa sezione presenta Business Intelligence (B.I.) e Anomalie riscontrate in veicoli specifici, scopri di più cliccando su uno degli argomenti sottostanti."
+  }
+}
