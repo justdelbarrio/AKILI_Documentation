@@ -1,0 +1,62 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Analisys": {
+    "message": "Analisys",
+    "description": "The label for category Analisys in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Analisys.link.generated-index.description": {
+    "message": "This section features Business Intelligence (B.I.) and Anomalies found in specific vehicles, learn more clicking on one of the topics below.",
+    "description": "The generated-index page description for category Analisys in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Transaction": {
+    "message": "Transaction",
+    "description": "The label for category Transaction in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Transaction.link.generated-index.description": {
+    "message": "The Transaction section simplifies fleet-related transactions with dedicated areas for surveys, renting, supplies, and tickets, ensuring streamlined operations and optimized efficiency.",
+    "description": "The generated-index page description for category Transaction in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Fleet": {
+    "message": "Fleet",
+    "description": "The label for category Fleet in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Fleet.link.generated-index.description": {
+    "message": "Efficiently manage your fleet with our dedicated fleet area.",
+    "description": "The generated-index page description for category Fleet in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Configuration": {
+    "message": "Configuration",
+    "description": "The label for category Configuration in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Configuration.link.generated-index.description": {
+    "message": "In this side of AKILI you will find the settings and the root of the app.",
+    "description": "The generated-index page description for category Configuration in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.B.I. Management": {
+    "message": "B.I. Management",
+    "description": "The label for category B.I. Management in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.B.I. Management.link.generated-index.description": {
+    "message": "The inside part of the B.I.",
+    "description": "The generated-index page description for category B.I. Management in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Notification": {
+    "message": "Notification",
+    "description": "The label for category Notification in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Notification.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Notification in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.System": {
+    "message": "System",
+    "description": "The label for category System in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.System.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category System in sidebar tutorialSidebar"
+  }
+}

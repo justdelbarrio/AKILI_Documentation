@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "AKILImob",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "AKILI logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Tutorial": {
+    "message": "Tutorial",
+    "description": "Navbar item with label Tutorial"
+  },
+  "item.label.News": {
+    "message": "News",
+    "description": "Navbar item with label News"
+  },
+  "item.label.Official Site": {
+    "message": "Official Site",
+    "description": "Navbar item with label Official Site"
+  }
+}

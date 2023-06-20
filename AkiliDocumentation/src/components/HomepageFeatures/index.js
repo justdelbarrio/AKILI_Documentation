@@ -5,7 +5,9 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use', 
+    title: 'Backoffice', 
+    
+    
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
@@ -15,7 +17,8 @@ which allows users to navigate it effortlessly.
     ),
   },
   {
-    title: 'Nowadays is a must',
+    title: 'App',
+   
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -25,8 +28,8 @@ which allows users to navigate it effortlessly.
       </>
     ),
   },
- /* {
-    title: 'Powered by React',
+  {
+    title: 'News',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
@@ -34,7 +37,7 @@ which allows users to navigate it effortlessly.
         be extended while reusing the same header and footer.
       </>
     ),
-  },*/
+  },
 ];
 
 function Feature({Svg, title, description}) {

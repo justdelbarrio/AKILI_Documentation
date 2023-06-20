@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Tutorial
 
-Benvenuti al **tutorial AKILImob**, qui troverete tutto ciò che c'è da sapere sul programma, **ma prima...**
+Benveuti al **tutorial AKILImob**, qui troverete tutto ciò che c'è da sapere sul programma, **ma prima...**
 
 
 ## Che cos'è AKILImob e a cosa serve?

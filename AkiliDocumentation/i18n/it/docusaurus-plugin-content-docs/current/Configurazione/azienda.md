@@ -8,13 +8,13 @@ Nel complesso ambiente aziendale di oggi, è fondamentale avere una chiara compr
 
 Come puoi vedere in questo video, puoi vedere l'esatta gerarchia presente nell'azienda. Devi solo premere questo pulsante per vedere come funziona.
 
-<img src="/i18n/it/docusaurus-plugin-content-docs/current/img/visTree.gif" alt="vis tree" width="600"/>
+<img src="/img/visTree.gif" alt="vis tree" width="600"/>
 
 Con l'altro pulsante, sarai in grado di **cambiare** i ruoli.
 
 <img src="\img\confLev.gif" alt="vis tree"  width="600" />
 
-<img src="/img/visTree.gif" alt="visTree" width="600"/>
+
 
 
 

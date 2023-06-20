@@ -44,7 +44,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          },
+          },       
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
@@ -61,7 +61,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/akilimob-icon.svg',
       navbar: {
         title: 'AKILImob',
         logo: {
@@ -69,16 +69,26 @@ const config = {
           src: 'img/akilimob-icon.svg',
         },
         items: [
+          {to: '/docs/intro', label: 'App', position: 'left'},
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            href:'/docs/intro',
+            label: 'Backoffice',
           },
+         
           {to: '/blog', label: 'News', position: 'left'},
+          
           {
             href: 'https://akilimob.com/',
             label: 'Official Site',
+            position: 'right',
+          },
+         
+          {
+            href: 'https://akilimob.app/',
+            label: 'App',
             position: 'right',
           },
           {
@@ -93,8 +103,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Backoffice',
+                to: '/docs/Backoffice',
               },
             ],
           },
