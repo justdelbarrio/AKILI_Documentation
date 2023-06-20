@@ -11,8 +11,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-AKILImob has a highly intuitive and easy-to-understand interface, 
-which allows users to navigate it effortlessly.
+Streamline fleet management tasks with powerful tools,
+analytics, and comprehensive administrative capabilities.
       </>
     ),
   },
@@ -22,9 +22,8 @@ which allows users to navigate it effortlessly.
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        In today's digital landscape, an online management site is crucial for businesses,
-         enabling streamlined operations, efficient collaboration, centralized data management,
-         and remote access to enhance productivity and competitiveness.
+        Efficient fleet management optimized for mobile users, with powerful tools 
+        and administrative capabilities.
       </>
     ),
   },
@@ -33,8 +32,7 @@ which allows users to navigate it effortlessly.
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+      Stay informed with the latest updates and industry news.
       </>
     ),
   },
