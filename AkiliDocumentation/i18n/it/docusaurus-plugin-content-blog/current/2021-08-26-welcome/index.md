@@ -1,6 +1,6 @@
 ---
-slug: Welcome
-title: Welcome
+slug: Benvenuto
+title: Benvenuto
 authors: staff
 tags: [akili]
 ---

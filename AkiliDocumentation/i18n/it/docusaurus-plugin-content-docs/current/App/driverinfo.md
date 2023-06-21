@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Driver Info
+# Informazioni del conducente
 
 La sezione delle informazioni sul conducente di AKILImob offre una panoramica completa sulle prestazioni, la sicurezza e l'efficienza dei conducenti della tua flotta, fornendoti dati in tempo reale. Monitora il comportamento di guida, traccia percorsi e accedi ai profili dei conducenti per ottimizzare le operazioni e garantire una flotta più sicura e produttiva.
 

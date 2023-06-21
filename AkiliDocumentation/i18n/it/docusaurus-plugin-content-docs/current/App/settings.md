@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Settings
+# Impostazioni
 
 La parte finale dell'app AKILImob è quella delle impostazioni, la più facile da imparare.
 
